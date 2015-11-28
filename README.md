@@ -1,7 +1,7 @@
 Overview
 ========
 
-**VaOceanMobile** is the content project with ocean shader created for **mobile** games on Unreal Engine 4 [Unreal Engine 4](https://www.unrealengine.com/). Yes, exactly! It looks the same on mobile and works **really** fast!
+**VaOceanMobile** is the content project with ocean shader created for **mobile** games on [Unreal Engine 4](https://www.unrealengine.com/). Yes, exactly! It looks the same on mobile and works **really** fast!
 
 Tested both on iOS and Android devices :)
 
