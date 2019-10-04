@@ -7,9 +7,11 @@ Tested both on iOS and Android devices :)
 
 Sure, this ocean shader has limited set of features in comparsion to desktop alternatives, but the key goal was achieved - it's fast, nice-looking for topdown view and works on mobile devices and web.
 
-Current version: **1.0 R 1** (tested for UE 4.9-4.10)
+Current version: **1.0 R 2** (tested for UE 4.9-4.23)
 
 ![SCREENSHOT](SCREENSHOT.jpg)
+
+Documentation: http://bit.ly/VaOceanMobile-Docs
 
 
 Legal info
